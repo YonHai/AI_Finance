@@ -1,1 +1,1 @@
-# AI_Finance Offered through Udemy 
+# AI_Finance 
